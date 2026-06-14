@@ -27,9 +27,11 @@
 |---|---|
 | [**God's Hand**](https://github.com/harshit-tyhf/God-s-Hand) | 2D strategy game built in 24 hrs at TechSolstice Game Jam. Constrained to a single fixed screen with population-management mechanics. You have godly powers and your only goal is to be feared. Spread your fear, and don't let the villagers die out, otherwise who'se left to fear you? <br><img src="\assets\godhand.png" height=240 width=360><img src="\assets\godhandsun.png" height=240 width=360>|
 | [**Desert Hunt**](https://github.com/harshit-tyhf/Desert-Hunt) | Unreal Engine 5 game featuring a desert environment with a flying carpet inspired from Aladdin demonstrates 3rd person shooting mechanics <br> <img src="\assets\desert_hunt1.png" height=240 width=360><img src="\assets\desert_hunt2.png" height=240 width=360>|
-| [**Fear Man**]() | Android game made with unity inspired from Granny. Puzzle driven escape game demonstrating sound based enemy AI, Item management and Level Design|
+| [**Fear Man**](https://play.google.com/store/apps/details?id=com.ResengalStudio.FearMan&pcampaignid=web_share) | Android game made with unity inspired from Granny. Puzzle driven escape game demonstrating sound based enemy AI, Item management and Level Design <br> <img src="\assets\fm1.webp" height=240 width=360><img src="\assets\fm2.webp" height=240 width=360>|
 
 - 🌱 I’m currently learning **Unreal Engine, Unity**
+
+- Current Projects: Fearman: Last 3 - Working with the team for a sequel to the singleplayer game with a now competitive multiplayer game where 5 try but only 3 can escape, if they have what it takes (the key).
 
 - 🤝 I’m looking for help with **CTFs & Game Dev**
 
